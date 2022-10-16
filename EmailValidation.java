@@ -1,4 +1,3 @@
-// Guillaume Morin - 261121583
 import java.util.Scanner;
 
 public class EmailValidation {
