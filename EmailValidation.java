@@ -1,3 +1,5 @@
+//ole gueyy
+
 import java.util.Scanner;
 
 public class EmailValidation {
