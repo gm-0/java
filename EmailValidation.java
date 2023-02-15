@@ -1,4 +1,4 @@
-//ole gueyy
+
 
 import java.util.Scanner;
 
